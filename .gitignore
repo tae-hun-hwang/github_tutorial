@@ -1,1 +1,3 @@
 ignore.py
+.idea
+*.orig
