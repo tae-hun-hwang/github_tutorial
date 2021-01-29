@@ -8,3 +8,5 @@ if __name__ == "__main__":
     print("haahaha");
     print("hahaha")
 
+
+    print("Second TEST")
